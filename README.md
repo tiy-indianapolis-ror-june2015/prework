@@ -33,7 +33,7 @@ WARNING: The OS X upgrade can take a bit of time to complete and will require a 
 
 ### Additional Software
 * Install Atom
-  * [Download Atom](https://atom.io) a code-editor
+  * [Download Atom](https://atom.io), a code-editor
   * Install and run it.
 * Install [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
 
