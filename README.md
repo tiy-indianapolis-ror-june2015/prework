@@ -115,6 +115,16 @@ If you want to get a better idea of the Ruby (and Rails specifically) community,
 
 Here's a huge list of the [2015 conference talks](http://confreaks.tv/events/railsconf2015).
 
+### Local Indy Community
+
+I've been part of the Ruby community here in Indianapolis since the very beginning and it's been fun to watch it blossom over the years.
+
+For your purposes, you can start getting involved now if you'd like.
+
+There's a well-attended (and friendly!) [monthly meetup](http://www.meetup.com/indyrb/), and associated IRC and [Flowdock](https://www.flowdock.com/invitations/94a1bf817fd42ec852f693da30f685ddccb57a7c) groups. The group's [website](http://indyrb.org) has more information.
+
+The Rubyist community here in Indy is truly great and you're going to enjoy being a part of it.
+
 ## Closing
 
 As I mentioned at the top (and goodness, that seems like a long time ago, doesn't it?), I'm really looking forward to working with you in this class.
