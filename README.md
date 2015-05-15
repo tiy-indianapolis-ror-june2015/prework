@@ -24,6 +24,7 @@ The following are the learning objectives for this prework, all of which are imp
 - What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 
 ## Computer Setup
+
 ### Install OSX Yosemite, if you haven’t already
 1.	You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
 2.	Download the Yosemite upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12).
