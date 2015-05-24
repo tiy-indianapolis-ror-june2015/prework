@@ -23,6 +23,10 @@ The following are the learning objectives for this prework, all of which are imp
 - What aspects of the Growth and Fixed mindset can you identify in your personal history? In what areas do you feel Fixed? Where do you see the most Growth?
 - What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 
+## Practical Advice
+
+["How to Win The Iron Yard"](https://medium.com/@SchnettHappens/how-to-win-the-iron-yard-646cdc11f7a0) is a great compilation of advice for new Iron Yard students. Bonus: It's compiled by a _current_ Iron Yard student.
+
 ## Computer Setup
 
 ### Install OSX Yosemite, if you haven’t already
