@@ -3,7 +3,7 @@ title: The Iron Yard Indianapolis - Ruby on Rails - June 2015
 email: chris.vannoy@theironyard.com
 description: > # this means to ignore newlines until "baseurl:"
   The Iron Yard Indianapolis Ruby on Rails Engineering course kicks off
-  June 15, 2015. This site contains (ideally) all the information you need
+  June 29, 2015. This site contains (ideally) all the information you need
   before class starts.
 baseurl: "/prework/" # the subpath of your site, e.g. /blog/
 url: "http://tiy-indianapolis-ror-june2015.github.io" # the base hostname & protocol for your site

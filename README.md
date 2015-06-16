@@ -139,6 +139,6 @@ For these 12 short weeks, we're all in this together. Our goal as a class should
 
 And I have high hopes that we will be.
 
-See you on June 15th!
+See you on June 29th!
 
 I can't wait.
